@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'But I want to find out about them, and who they are, and what their object was in playing this prank--if it was a prank--upon me.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'But he is generally melancholy and despairing, and sometimes he gnashes his teeth, as if impatient of the weight of woes that oppresses him.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'I am very much interested in Mr. Gray at present.'      
 };
 
 function status(statusText) {
